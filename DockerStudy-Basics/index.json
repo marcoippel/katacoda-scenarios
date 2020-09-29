@@ -7,7 +7,7 @@
     "steps": [{
       "title": "Step 1 - Start the dockerstudy container",
       "text": "step1.md",
-      "background" : "start.sh"
+      "courseData" : "start.sh"
     }],
     "intro": {
       "text": "intro.md",
