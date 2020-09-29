@@ -1,11 +1,11 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Docker study",
+  "description": "Docker study basics",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "30 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - Start the dockerstudy container",
       "text": "step1.md"
     }],
     "intro": {
