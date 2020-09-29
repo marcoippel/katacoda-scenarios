@@ -1,10 +1,7 @@
 This is your first step.
 
 ## Task
-
-Start the dockerstudy webapplication door onderstaand commando uit te voeren.
-
-`curl https://raw.githubusercontent.com/marcoippel/playwithdocker-course/master/start.sh | sh`{{execute}}
+Open de tab "Docker study" en start de opdrachten. Als je klaar bent wil je dan het feedback formulier invullen 
 
 ### Handige docker commando's
 
