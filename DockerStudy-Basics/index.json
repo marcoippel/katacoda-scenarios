@@ -4,11 +4,23 @@
   "difficulty": "beginner",
   "time": "30 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Start the dockerstudy container",
-      "text": "step1.md",
-      "code" : "start.sh"
-    }],
+    "steps": [
+      {
+        "title": "Step 1 - Maak een docker file en build een container",
+        "text": "step1.md",
+        "code" : "install-net-core.sh"
+      },
+      {
+        "title": "Step 2 - Start the dockerstudy container",
+        "text": "step2.md",
+        "code" : "start-dockerstudycontainer.sh"
+      },
+      {
+      "title": "Step 3 - Start the dockerstudy container",
+      "text": "step3.md",
+      "code" : "start-dockerstudycontainer.sh"
+    }
+  ],
     "intro": {
       "text": "intro.md",
       "credits": "Marco Ippel"
