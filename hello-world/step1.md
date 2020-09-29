@@ -2,6 +2,6 @@ This is your first step.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+Start the dockerstudy webapplication **command**
 
-`echo 'Hello World'`{{execute}}
+`curl https://raw.githubusercontent.com/marcoippel/playwithdocker-course/master/start.sh | sh'`{{execute}}

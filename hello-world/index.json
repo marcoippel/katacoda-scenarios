@@ -18,9 +18,16 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.",
+    "showdashboard": true,
+    "dashboards": [
+      {"name": "Docker study", "port": 80}, 
+      {"name": "Opdracht 3", "port": 83},
+      {"name": "Opdracht 5", "port": 85},
+      {"name": "Opdracht 6", "port": 86}
+    ]
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "ubuntu:2004"
   }
 }
