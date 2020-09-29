@@ -1,5 +1,5 @@
 {
-  "title": "Docker study",
+  "title": "Docker study basics",
   "description": "Docker study basics",
   "difficulty": "beginner",
   "time": "30 minutes",
@@ -10,7 +10,7 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "Marco Ippel"
     },
     "finish": {
       "text": "finish.md"
