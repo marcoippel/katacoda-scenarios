@@ -25,7 +25,8 @@
       {"name": "Opdracht 3", "port": 83},
       {"name": "Opdracht 5", "port": 85},
       {"name": "Opdracht 6", "port": 86}
-    ]
+    ],
+    "showide": true
   },
   "backend": {
     "imageid": "ubuntu:2004"
