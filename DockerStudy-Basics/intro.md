@@ -1,6 +1,11 @@
-# Inhoud
-1. [Wat is docker study](#1-wat-is-docker-study)
-2. [Hoe werkt Docker study](#4-hoe-werkt-docker-study)
+## Docker study basics
+
+In deze opdracht gaan we de basis leren over docker. We beginnen met 2 eenvoudige opdrachten en hierna volgt een soort leeromgeving waar je ook je resultaten kan valideren.
+
+1. We gaan een docker file maken en een docker image builden en runnen met daarin een .net core applicatie.
+2. We gaan het image wat we gemaakt hebben pushen naar dockerhub.
+3. We gaan de dockerstudy image starten en hierin zitten 6 opdrachten welke ook gevalideerd kunnen worden.
+
 
 ## 1. Wat is docker study
 
