@@ -1,12 +1,10 @@
 This is your first step.
 
 ## Task
-Open de tab "Docker study" en start de opdrachten. Als je klaar bent wil je dan het feedback formulier invullen 
 
-### Handige docker commando's
+In deze opdracht gaan we het image wat we in het eerst scenario gemaakt hebben pushen naar dockerhub
 
-* docker ps (bekijk de containers) 
-* docker network ls (bekijk de netwerken)
-* docker rm -f %containername% (verwijder een container op basis van naam)
-
-**Laat dit scherm open tot je klaar bent met de training.**
+1. Maak een repository aan in je dockerhub account
+2. Login op dockerhub met je credentials in de terminal.
+3. Build de docker file en tag je image met de juiste tag incl. versie
+4. Push het image naar de container registry

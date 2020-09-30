@@ -2,7 +2,7 @@
   "title": "Docker study basics",
   "description": "Docker study basics",
   "difficulty": "beginner",
-  "time": "30 minutes",
+  "time": "60 minutes",
   "details": {
     "steps": [
       {
@@ -11,9 +11,8 @@
         "courseData" : "install-net-core.sh"
       },
       {
-        "title": "Step 2 - Start the dockerstudy container",
-        "text": "step2.md",
-        "code" : "start-dockerstudycontainer.sh"
+        "title": "Step 2 - Push een container naar dockerhub",
+        "text": "step2.md"
       },
       {
       "title": "Step 3 - Start the dockerstudy container",
