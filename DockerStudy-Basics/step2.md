@@ -1,5 +1,3 @@
-This is your first step.
-
 ## Task
 
 In deze opdracht gaan we het image wat we in het eerst scenario gemaakt hebben pushen naar dockerhub

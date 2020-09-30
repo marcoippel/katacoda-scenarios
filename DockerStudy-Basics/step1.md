@@ -1,5 +1,3 @@
-This is your first step.
-
 ## Task
 
 In deze opdracht gaan we een dockerfile maken en we gaan een .net core applicatie hosten in een container.
