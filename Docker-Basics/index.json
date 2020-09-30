@@ -8,7 +8,7 @@
       {
         "title": "Step 1 - Maak een docker file en build een container",
         "text": "step1.md",
-        "courseData" : "install-net-core.sh"
+        "code" : "install-net-core.sh"
       },
       {
         "title": "Step 2 - Push een container naar dockerhub",
