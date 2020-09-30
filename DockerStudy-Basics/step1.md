@@ -1,12 +1,26 @@
 This is your first step.
 
 ## Task
-Open de tab "Docker study" en start de opdrachten. Als je klaar bent wil je dan het feedback formulier invullen 
+In deze opdracht gaan we een dockerfile maken en we gaan een .net core applicatie hosten in een container.
 
-### Handige docker commando's
+*** Clone de repo voor de dockerworkshop demo app ***
 
-* docker ps (bekijk de containers) 
-* docker network ls (bekijk de netwerken)
-* docker rm -f %containername% (verwijder een container op basis van naam)
+`git clone https://github.com/marcoippel/DockerWorkshop-Demo-app.git` {{execute}}
 
-**Laat dit scherm open tot je klaar bent met de training.**
+*** Ga naar het pad waar de projectfile staat ***
+
+`cd DockerWorkshop-Demo-app/DockerWorkshop\ Demo\ app/` {{execute}}
+
+*** Publish de applicatie naar de folder '/bin/Debug/netcoreapp3.1/publish/' ***
+
+`dotnet publish` {{execute}}
+
+*** Open de docker file in VS Code ***
+`code ./dockerfile` {{execute}}
+
+* Gebruik als basis image: mcr.microsoft.com/dotnet/core/runtime:3.1-buster-slim
+* Kopieer de bestanden welke gepubliseerd zijn in de folder '/bin/Debug/netcoreapp3.1/publish/' app naar de folder /app in het image.
+* Gebruik de assembly “DockerWorkshop Demo app.dll” als entrypoint.
+* Build het image en tag het image met de tag “demoapp”
+* Start de container met als argument:  “Hello world”
+
