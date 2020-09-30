@@ -15,7 +15,8 @@ In deze opdracht gaan we een dockerfile maken en we gaan een .net core applicati
 `dotnet publish`{{execute}}
 
 *** Open de docker file in VS Code ***
-Open de tab ide boven aan in het scherm. Open de folder '/root/DockerWorkshop-Demo-app/DockerWorkshop Demo app/'
+
+Open de tab IDE boven aan in het scherm. Open de folder '/root/DockerWorkshop-Demo-app/DockerWorkshop Demo app/'
 
 
 * Gebruik als basis image: mcr.microsoft.com/dotnet/core/runtime:3.1-buster-slim
