@@ -10,7 +10,7 @@ In deze opdracht gaan we een dockerfile maken en we gaan een .net core applicati
 
 *** Ga naar het pad waar de projectfile staat ***
 
-`cd /root/DockerWorkshop-Demo-app/DockerWorkshop Demo app/`{{execute}}
+`cd /root/DockerWorkshop-Demo-app/DockerWorkshop\ Demo\ app/`{{execute}}
 
 *** Publish de applicatie naar de folder '/bin/Debug/netcoreapp3.1/publish/' ***
 
