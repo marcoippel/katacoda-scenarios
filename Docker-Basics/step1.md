@@ -1,5 +1,3 @@
-## Task
-
 In deze opdracht gaan we een dockerfile maken en we gaan een .net core applicatie hosten in een container.
 
 *** Clone de repo voor de dockerworkshop demo app ***

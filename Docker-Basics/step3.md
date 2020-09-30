@@ -1,5 +1,3 @@
-## Task
-
 In deze opdracht gaan we de dockerstudy container starten welke verschillende opdrachten bevat.
 Open de tab "Docker study" en start met de opdrachten. Als je klaar bent wil je dan het feedback formulier invullen 
 

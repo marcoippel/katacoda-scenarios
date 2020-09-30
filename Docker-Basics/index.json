@@ -6,16 +6,16 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Maak een docker file en build een container",
+        "title": "Opdracht 1 - Maak een docker file en build een container",
         "text": "step1.md",
         "code" : "install-net-core.sh"
       },
       {
-        "title": "Step 2 - Push een container naar dockerhub",
+        "title": "Opdracht 2 - Push een container naar dockerhub",
         "text": "step2.md"
       },
       {
-      "title": "Step 3 - Start the dockerstudy container",
+      "title": "Opdracht 3 - Start the dockerstudy container",
       "text": "step3.md",
       "code" : "start-dockerstudycontainer.sh"
     }

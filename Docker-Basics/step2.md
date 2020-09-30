@@ -1,5 +1,3 @@
-## Task
-
 In deze opdracht gaan we het image wat we in het eerst scenario gemaakt hebben pushen naar dockerhub
 
 1. Maak een repository aan in je dockerhub account
