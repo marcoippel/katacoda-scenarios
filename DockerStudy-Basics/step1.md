@@ -5,18 +5,19 @@ In deze opdracht gaan we een dockerfile maken en we gaan een .net core applicati
 
 *** Clone de repo voor de dockerworkshop demo app ***
 
-`git clone https://github.com/marcoippel/DockerWorkshop-Demo-app.git` {{execute}}
+`git clone https://github.com/marcoippel/DockerWorkshop-Demo-app.git`{{execute}}
 
 *** Ga naar het pad waar de projectfile staat ***
 
-`cd DockerWorkshop-Demo-app/DockerWorkshop\ Demo\ app/` {{execute}}
+`cd DockerWorkshop-Demo-app/DockerWorkshop\ Demo\ app/`{{execute}}
 
 *** Publish de applicatie naar de folder '/bin/Debug/netcoreapp3.1/publish/' ***
 
-`dotnet publish` {{execute}}
+`dotnet publish`{{execute}}
 
 *** Open de docker file in VS Code ***
-`code ./dockerfile` {{execute}}
+
+`code ./dockerfile`{{execute}}
 
 * Gebruik als basis image: mcr.microsoft.com/dotnet/core/runtime:3.1-buster-slim
 * Kopieer de bestanden welke gepubliseerd zijn in de folder '/bin/Debug/netcoreapp3.1/publish/' app naar de folder /app in het image.
