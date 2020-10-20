@@ -10,7 +10,7 @@ In deze opdracht gaan we een dockerfile maken en we gaan een .net core applicati
 
 *** Publish de applicatie naar de folder '/bin/Debug/netcoreapp3.1/publish/' ***
 
-`dotnet publish -c release`{{execute}}
+`dotnet publish -c Release`{{execute}}
 
 *** Open de docker file in VS Code ***
 
