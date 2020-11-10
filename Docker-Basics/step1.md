@@ -18,7 +18,7 @@ Open de tab IDE boven aan in het scherm. Open de folder '/root/DockerWorkshop-De
 
 
 * Gebruik als basis image: mcr.microsoft.com/dotnet/core/runtime:3.1-buster-slim
-* Kopieer de bestanden welke gepubliseerd zijn in de folder '/bin/Release/netcoreapp3.1/publish/' app naar de folder /app in het image.
+* kopiëer de bestanden welke gepubliceerd zijn in de folder '/bin/Release/netcoreapp3.1/publish/' app naar de folder /app in het image.
 * Gebruik de assembly “DockerWorkshop Demo app.dll” als entrypoint.
 * Build het image en tag het image met de tag “demoapp”
 * Start de container met als argument: “Hello-world”
