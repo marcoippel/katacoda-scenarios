@@ -1,0 +1,35 @@
+{
+  "title": "Kubernetes basics",
+  "description": "Learn how to host a pod and expose it through a node port. Create a persistant volume and create a persistant volume claim and add this to the pod",
+  "difficulty": "beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Opdracht 1 - Start de k8sStudy container en maak de 5 opdrachten",
+        "text": "step1.md",
+        "code" : "addHelmRepo.sh"
+      }
+  ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "Marco Ippel"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.",
+    "showdashboard": true,
+    "dashboards": [
+      {"name": "Docker study", "port": 80}, 
+      {"name": "Sonarqube", "port": 30085}
+    ],
+    "showide": true
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster-running:1.18"
+  }
+}
