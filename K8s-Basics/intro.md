@@ -1,5 +1,7 @@
 ## Docker study basics
 
+# Still work in progress
+
 In deze opdracht gaan we de basis leren over kubernetes. We beginnen met 5 eenvoudige opdrachten.
 
 1. We gaan een sonarqube pod aanmaken en starten in kubernetes.

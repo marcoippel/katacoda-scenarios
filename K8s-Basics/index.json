@@ -24,8 +24,8 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.",
     "showdashboard": true,
     "dashboards": [
-      {"name": "Docker study", "port": 80}, 
-      {"name": "Sonarqube", "port": 30085}
+      {"name": "K8sStudy", "port": 30085}, 
+      {"name": "Sonarqube", "port": 30082}
     ],
     "showide": true
   },
