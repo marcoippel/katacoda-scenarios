@@ -1,6 +1,6 @@
 {
   "title": "Kubernetes basics",
-  "description": "Learn how to host a pod and expose it through a node port. Create a persistant volume and create a persistant volume claim and add this to the pod",
+  "description": "Learn how to host a pod and expose it through a node port. Create a persistent volume and create a persistent volume claim and add this to the pod",
   "difficulty": "beginner",
   "time": "60 minutes",
   "details": {

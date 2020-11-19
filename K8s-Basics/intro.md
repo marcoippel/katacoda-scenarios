@@ -1,4 +1,4 @@
-## Docker study basics
+## Kubernetes study basics
 
 # Still work in progress
 
