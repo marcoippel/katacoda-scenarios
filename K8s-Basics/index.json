@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Opdracht 1 - Start de k8sStudy container en maak de 5 opdrachten",
+        "title": "Open de k8sStudy tab en maak de 5 opdrachten",
         "text": "step1.md",
         "code" : "addHelmRepo.sh"
       }
