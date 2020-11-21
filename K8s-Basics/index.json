@@ -8,7 +8,7 @@
       {
         "title": "Open de k8sStudy tab en maak de 5 opdrachten",
         "text": "step1.md",
-        "code" : "addHelmRepo.sh"
+        "courseData" : "addHelmRepo.sh"
       }
   ],
     "intro": {
